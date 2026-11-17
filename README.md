@@ -4,7 +4,7 @@ Estudiante de **Ingeniería Informática y Sistemas** en la **Universidad Carlos
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 - **Lenguajes:** Python, JavaScript, SQL, HTML5, CSS, C/C++ (basico)
 - **Backend y Tiempo Real:** Node.js, Express, Socket.IO, Flask
 - **IA y Automatización:** Ollama (LLMs locales), Edge-TTS, Google APIs, CalDAV
@@ -13,7 +13,7 @@ Estudiante de **Ingeniería Informática y Sistemas** en la **Universidad Carlos
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 - **[Pueblo Duerme Online](https://github.com/marcos-madrigal/pueblo-duerme):** Juego web multijugador en tiempo real construido con Node.js y Socket.IO ([Demo en vivo](https://pueblo-duerme.onrender.com/)).
 - **[J.A.R.V.I.S. AI Assistant](https://github.com/marcos-madrigal/jarvis-ai-assistant):** Asistente personal de voz y productividad *local-first* con Ollama, memoria persistente en SQLite e integración con Gmail y iCloud Calendar.
 
